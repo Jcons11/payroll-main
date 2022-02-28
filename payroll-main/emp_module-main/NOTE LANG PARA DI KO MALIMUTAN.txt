@@ -1,0 +1,32 @@
+von39gaming@gmail.com
+von%15@!#Fa4%#@kE
+
+Changes
+Schedule in emp_info (Goods na ata?)
+Time in / Time Out / Date Time in / Date TIme Out (Done)
+Add event for time_in (git gud)
+
+(Add Column)
+Contact # (oks)
+Company ID (oks)
+Status: Available / Unavailable (oks)
+Address (oks)
+type
+
+Access only input Employee then make Position: Office in Charge / Security Guard (Goods na?)
+Add Position Column in emp_info (Goods na?)
+Add Column Sahod per day (Nalagay na)
+
+
+PROBLEMS
+IF LATE NG 1 HR HINDI NA PWEDE MAG LOGIN SI GUARD
+BEFORE 15 MINS NG OFFDUTY NI GUARD PWEDE NA SIYA MAG TIME OUT :)
+
+
+
+PENDING 
+
+Change the early time in to (specific time schedule)
+Add late per min
+change the event name so it wont overwrite
+Kapag nag awol, d-delete yung attendance ng nag awol
